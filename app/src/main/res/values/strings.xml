@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flavus</string>
+    <string name="profile">Profile</string>
+    <string name="recipe_description">Description</string>
+    <string name="recipe_value">Valeur</string>
+    <string name="recipe_color">Couleur</string>
+
+    <string name="error">Echec</string>
+    <string name="success">Succès</string>
+    <string name="failure">recherche incorrecte</string>
+</resources>
